@@ -1,0 +1,186 @@
+About: >
+    During my time at the university, I developed a strong foundation in
+    contemporary music, studying a wide range of composers from Guillaume
+    Machaut to Alexander Schubert. This versatility is evident in pieces like
+    “Prelude in Antique Style”, a piano piece in post-romantic style, and
+    “inSets”, a web-based generative interactive composition (insets-music.web.app/).
+    As well, I have explored sound and collaborative composition techniques
+    extensively, notably in “Pieza No. 305” with Hernan Escudero. From 2019 to
+    2020, I served as an assistant in the music morphology course at the
+    university. I have also made contributions to music theory, focusing on
+    algorithmic music composition, generative music composition, and the
+    application of information theory to music, which were highlighted in my
+    thesis. I participated in several workshops, including Alicia Terzian's
+    composition workshop (2016), Emile Girard Carest's cello workshop (2018),
+    the Untref String Quartet workshop (2019), and an interview with Luis Maria
+    Serra (2021).
+
+Intereset: >
+  music technology, generative composition, timbral exploration,
+  collaborative compositions, morphology and musical analysis.
+
+Works:
+  - Name: inSets
+    For: Web
+    Date: "2023"
+    Details: inset-music.dev.app
+
+  - Name: Five Pieces for Eight Instruments
+    For: Flute, Oboe, Clarinet Bb, Horn F, Bassoon, Violin, Viola, and Cello
+    Date: "2020"
+
+  - Name: Sonata for Flute and Cello
+    For: Flute and Cello
+    Date: 01/07/2020
+
+  - Name: Piece for Violin and Snare
+    For: Violin and Snare
+    Date: 21/02/2020
+
+  - Name: Tres piezas muy cortas
+    For: Electroacustic
+    Date: "2020"
+
+  - Name: Berriunches en el 3er cuarto
+    For: Sopranino Recorder, Violin, and Guitar
+    Date: 11/07/2019
+
+  - Name: Quintet, Decomposing Prokofiev
+    For: Oboe, Clarinet in Bb, Violin, Viola, and Contrabass
+    Date: "2019"
+
+  - Name: Five Short Pieces for Piano
+    For: Piano
+    Date: "2019"
+
+  - Name: Estudio 1
+    For: Electroacustic
+    Date: 09/11/2018
+
+  - Name: Prelude in Antique Style
+    For: Piano
+    Date: 29/04/2018
+
+  - Name: A piece for Clarinet
+    For: Clarinet
+    Date: "28/06/2018"
+
+  - Name: Humoresque
+    For: Piano
+    Date: "2018"
+
+  - Name: Piece for Piano
+    For: Piano
+    Date: "2018"
+
+  - Name: Romanza
+    For: Alto and Piano
+    Date: "2017"
+
+  - Name: Prelude
+    For: Piano
+    Date: "2017"
+
+Grupal_Works:
+  - Name: "Pieza No.305"
+    For: String Quartet (2 Violin, Viola, and Cello)
+    Date: "2019"
+    With: J. Hernan Escudero
+    Details: It is part of a larger composition titled 'Exhibición Estrafalaria'
+
+
+  - Name: Reconstrucción
+    For: Wind Quintet (Flute, Oboe, Clarinet Bb, Horn F, and Bassoon)
+    Date: "2019"
+    With: >
+      J. Hernan Escudero,
+      Agustina Gordillo,
+      Matías Jara,
+      Facundo D. Llaiquel,
+      Juan I. Sabatino,
+      Juan I. Ubino
+    Details: >
+      The approach involved each of us creating a variation on a theme
+      that is not presented in the composition.
+
+  - Name: Seppuku
+    For: Flute, Clarinet Bb, Violin, Viola, Cello and Piano
+    Date: "2019"
+    With: >
+      J. Hernan Escudero,
+      Agustina Gordillo,
+      Matías Jara,
+      Facundo D. Llaiquel,
+      Juan I. Sabatino,
+      Juan I. Ubino
+    Details: >
+      The approach involved creating a work, then selecting random parts
+      and repeating them multiple times
+
+  - Name: Kamikaze
+    For: Two Violins
+    Date: "2019"
+    With: >
+      J. Hernan Escudero,
+      Agustina Gordillo,
+      Matías Jara,
+      Facundo D. Llaiquel,
+      Juan I. Sabatino,
+      Juan I. Ubino
+    Details: The goal was to explore the sound of two violins in dialogue
+
+  - Name: dcbga/
+    For: Flute, Trumpet C and Guitar
+    Date: "2018"
+    With: Martín Dalmasso
+    Details:
+
+  - Name: Pirámide
+    For: Flute
+    Date: "2018"
+    With: >
+      J. Hernan Escudero,
+      Matías Jara,
+      Facundo D. Llaiquel,
+      Federico G. Nurry Recabarren,
+      Juan I. Sabatino,
+      Juan I. Ubino
+    Details: >
+      The collaborative approach involved each of us creating a fragment,
+      which we then assembled and ordered to form a piece.
+
+  - Name: Fragmento a su Presencia
+    For: Soprano
+    Date: "2018"
+    With: >
+      J. Hernan Escudero,
+      Matías Jara,
+      Facundo D. Llaiquel,
+      Federico G. Nurry Recabarren,
+      Juan I. Sabatino,
+      Juan I. Ubino
+    Details: This is a collaborative work that explores some vocal techniques.
+
+Papers:
+  - Name: inSets, towards the combinatorial essence of composition
+    Context: Grade Thesis for the Lit. in Musical Composition
+    Keyworks: >
+      Umberto Eco,
+      Work in movement,
+      Information theory,
+      Probabilistic structure,
+      Art as communication,
+      Computers in music composition,
+      Generative works,
+      Interactive music
+    About:
+      - I explore the concepts of Umberto Eco's "work in movement" and its relation to information theory, emphasizing the dynamic nature of art and its probabilistic structure. This approach frames art as a process of communication.
+      - Generative compositions are described as works where some compositional decisions are made by an external agent.
+      - The use of computers and algorithms in music composition is explored, highlighting how these tools enable the creation of generative works.
+      - Practical example demonstrate how theoretical concepts are implemented in creating interactive and dynamic musical work.
+
+Workshops:
+  - 2021 - interview with Luis Maria Serra
+  - 2019 - Untref String Quartet
+  - 2018 - cello, Emile Girard Carest
+  - 2016 - composition, Alicia Terzian
