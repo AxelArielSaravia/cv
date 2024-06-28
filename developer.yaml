@@ -201,6 +201,10 @@ Books_and_Articles:
     Author: Miran Lipovaca
 
   Articles:
+    - Name: The Law of Leaky Abstractions
+      Author: Joel Spolsky
+      Online: joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/
+
     - Name: A Rant about Front-end Development
       Author: Frank M Taylor
       Online: blog.frankmtaylor.com/2024/06/20/a-rant-about-front-end-development/
