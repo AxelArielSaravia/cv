@@ -15,10 +15,12 @@ Keywords: >
   Browser Extensions, CLI Tools, Front End Development, UI Improvement,
   Ecommerce Management
 
+Page: https://axelarielsaravia.github.io/dev
+
 Projects:
   - Name: JCC, Just Compile my C
     Date: june 2024
-    Repo: github.com/AxelArielSaravia/jcc
+    Repo: github.com/axelarielsaravia/jcc
     Technology: C, Git
     About: >
       This is my own wrapper to compile C with the GCC compiler. The idea
@@ -29,14 +31,14 @@ Projects:
 
   - Name: Data quick cleaner (Chromium extension)
     Date: august 2024
-    Repo: github.com/AxelArielSaravia/bookmarks-quick-view
+    Repo: github.com/axelarielsaravia/bookmarks-quick-view
     Technology: HTML, CSS, Javascript, Git, Bash, Bun
     About: A tool to remove page or browser data quickly.
 
   - Name: ws (working session)
     Date: april 2024
-    Repo: github.com/AxelArielSaravia/ws
-    Technology: Bash
+    Repo: github.com/axelarielsaravia/ws
+    Technology: Bash, Git
     About: >
       Manages working directories, and simplify 'tmux sessions'.
       Its always create a tmux session with 2 windows, one for a
@@ -44,51 +46,51 @@ Projects:
 
   - Name: superprod (outdated, can be obsolete)
     Date: march 2024
-    Repo: github.com/AxelArielSaravia/superprod
+    Repo: github.com/axelarielsaravia/superprod
     Technology: Go
     About: CLI tool for web data extraction from Argentinian supermarkets
 
   - Name: Vanilla Movie (aas-vanilla-movie.vercel.app)
     Date: october 2023
-    Repo: github.com/AxelArielSaravia/vanilla-movie
+    Repo: github.com/axelarielsaravia/vanilla-movie
     Technology: HTML, CSS, JavaScript, Bun, Git, Bash, Vercel
     About: >
       A movie tracker, inspired by Netflix. The idea was to create
       an SPA with pure JavaScript, with apis that comes from Vercel
 
   - Name: Bookmarks quick view (Chromium extension)
-    Repo: github.com/AxelArielSaravia/bookmarks-quick-view
+    Repo: github.com/axelarielsaravia/bookmarks-quick-view
     Date: august 2023
     Technology: HTML, CSS, Javascript, Git, Bash, Bun
     About: View and manage browser bookmarks
 
   - Name: Pixel Scroll (Chromium extension)
     Date: august 2023
-    Repo: github.com/AxelArielSaravia/pixel-scroll
+    Repo: github.com/axelarielsaravia/pixel-scroll
     Technology: HTML, CSS, Javascript, Git, Bash, Bun
     About: Scroll with pixel distance.
 
   - Name: History quick view (Chromium extension)
     Date: july 2023
-    Repo: github.com/AxelArielSaravia/history-quick-view
+    Repo: github.com/axelarielsaravia/history-quick-view
     Technology: HTML, CSS, Javascript, Git, Bash, Bun
     About: View and manage browser history data.
 
   - Name: Vanilla Todo (aas-vanilla-todo.web.app)
     Date: july 2023
-    Repo: github.com/AxelArielSaravia/vanilla-todo
+    Repo: github.com/axelarielsaravia/vanilla-todo
     Technology: HTML, CSS, Javascript, Git, Bun, Firebase
     About: A todo app build with pure JavaScript.
 
   - Name: React Todo (aas-react-todo.web.app)
     Date: june 2023
-    Repo: github.com/AxelArielSaravia/react-todo
+    Repo: github.com/axelarielsaravia/react-todo
     Technology: HTML, CSS, Javascript, Git, Bun, React, Firebase
     About: A todo app build with React.js.
 
   - Name: inSets (insets-music.web.app)
     Date: april 2022
-    Repo: github.com/AxelArielSaravia/insets
+    Repo: github.com/axelarielsaravia/insets
     Technology: >
       JavaScript, CSS, HTML, Bash, Git,
       Web Audio API, Bun, Firebase, React
@@ -130,7 +132,7 @@ Education:
   - Entity: Full Stack open (fullstackopen.com/)
     Date: "2022-2023"
     Certificate: studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/719aef96eb4066cac05632f46e39709c
-    Repo: github.com/AxelArielSaravia/fullstackopen2022-exercises
+    Repo: github.com/axelarielsaravia/fullstackopen2022-exercises
 
   - Entity: Freecodecamp
     Date: "2022"
