@@ -1,0 +1,51 @@
+Name = "Axel Ariel Saravia"
+
+[Contact]
+Phone= "+54 9 3525503330"
+Email= "axelarielsaravia@gmail.com"
+Github= "AxelArielSaravia"
+Codepen= "axelarielsaravia"
+Linkedin= "axelarielsaravia"
+
+[Location]
+Current = "Colonia Caroya, Córdoba, Argentina"
+Other = "Autonomous City of Buenos Aires, Argentina"
+
+Lenguages = [
+  "Spanish (native)",
+  "English (B2)"
+]
+
+[[Education]]
+Entity = "National University of Córdoba"
+Location = "Cordoba, Cordona, Argentina"
+Creadential = "Litentiate in Musical Composition"
+Started = "2016"
+Ended = "2023"
+Details = [
+    """I have taken courses with composers such as Eleazar Garzon, \
+    Ana Gabriela Yaya Aguilar, and Sergio P. N. Poblete Barbero.""",
+    "From 2019 to 2020, I served as an assistant in the music morphology course.",
+    "I have gained experience and developed a wide range of solo and collaborative composition techniques."
+]
+
+[[Education]]
+Entity = "National University of Córdoba"
+Location = "Cordoba, Cordona, Argentina"
+Creadential = "Licentiate in Computer Science"
+Started: "2021"
+Ended = "unfinish"
+Details = ""
+
+[[Employment]]
+Role = "Sales / Customer Support on Pharmacy"
+Entity = "Farmacia Serbo"
+Location = "Colonia Caroya, Cordoba, Argentina"
+Started = "march 2015"
+Ended = "december 2015"
+Details = [
+    "Attend clients"
+    "Create orders"
+    "Organize the products"
+    "Have the local clean"
+]

@@ -1,0 +1,293 @@
+About = """\
+I am a versatile developer, blending my passion for web development, \
+programming, and music composition. I enjoy exploring new programming \
+languages and techniques, constantly striving to learn and read about \
+new things. I am responsible and dedicated to my activities, ensuring \
+that I deliver high-quality work. In addition to my technical pursuits, \
+I am passionate about music composition and generative music. I also enjoy \
+staying active through exercise and have a love for cooking."""
+
+Keywords = """
+Javascript, CSS, HTML, Bun, Nodejs, Linux, Go, React, C, Bash, Wordpress, \
+Google Sheets, Web Development, Programming Languages, Programming Calculus, \
+Audio Programming, Music Composition, Generative Music, Exercise, \
+Interactive Applications, SPA, Generative Algorithms, Data Extraction, \
+Browser Extensions, CLI Tools, Front End Development, UI Improvement, \
+Ecommerce Management"""
+
+Page = "https://axelarielsaravia.github.io/dev"
+
+[[Projects]]
+Name = "JCC, Just Compile my C"
+Date = "june 2024"
+Repo = "github.com/axelarielsaravia/jcc"
+Technology = "C, Git"
+About = """\
+This is my own wrapper to compile C with the GCC compiler. The idea \
+is to have a set of defaults (warnings, security, and standards) and \
+a set of commands to simplify actions. You can compile at any time \
+with different defaults, making it flexible and easy to adapt to \
+various projects."""
+
+[[Projects]]
+Name = "Data quick cleaner (Chromium extension)"
+Date = "august 2024"
+Repo = "github.com/axelarielsaravia/bookmarks quick-view"
+Technology = "HTML, CSS, Javascript, Git, Bash, Bun"
+About = "A tool to remove page or browser data quickly."
+
+[[Projects]]
+Name = "ws (working session)"
+Date = "april 2024"
+Repo = "github.com/axelarielsaravia/ws"
+Technology = "Bash, Git"
+About = """\
+Manages working directories, and simplify 'tmux sessions'. \
+Its always create a tmux session with 2 windows, one for a \
+text editor like neovim, and the other for normal terminal."""
+
+[[Projects]]
+Name = "superprod (outdated, can be obsolete)"
+Date = "march 2024"
+Repo = "github.com/axelarielsaravia/superprod"
+Technology = "Go"
+
+[[Projects]]
+Name = "Vanilla Movie (aas-vanilla-movie.vercel.app)"
+Date = "october 2023"
+Repo = "github.com/axelarielsaravia/vanilla movie"
+Technology = "HTML, CSS, JavaScript, Bun, Git, Bash, Vercel"
+About = """\
+A movie tracker, inspired by Netflix. The idea was to create \
+an SPA with pure JavaScript, with apis that comes from Vercel"""
+
+[[Projects]]
+Name = "Bookmarks quick view (Chromium extension)"
+Repo = "github.com/axelarielsaravia/bookmarks quick-view"
+Date = "august 2023"
+Technology = "HTML, CSS, Javascript, Git, Bash, Bun"
+About = "View and manage browser bookmarks"
+
+[[Projects]]
+Name = "Pixel Scroll (Chromium extension)"
+Date = "august 2023"
+Repo = "github.com/axelarielsaravia/pixel scroll"
+Technology = "HTML, CSS, Javascript, Git, Bash, Bun"
+About = "Scroll with pixel distance."
+
+[[Projects]]
+Name = "History quick view (Chromium extension)"
+Date = "july 2023"
+Repo = "github.com/axelarielsaravia/history quick-view"
+Technology = "HTML, CSS, Javascript, Git, Bash, Bun"
+About = "View and manage browser history data."
+
+[[Projects]]
+Name = "Vanilla Todo (aas-vanilla-todo.web.app)"
+Date = "july 2023"
+Repo = "github.com/axelarielsaravia/vanilla todo"
+Technology = "HTML, CSS, Javascript, Git, Bun, Firebase"
+About = "A todo app build with pure JavaScript."
+
+[[Projects]]
+Name = "React Todo (aas-react-todo.web.app)"
+Date = "june 2023"
+Repo = "github.com/axelarielsaravia/react todo"
+Technology = "HTML, CSS, Javascript, Git, Bun, React, Firebase"
+About = "A todo app build with React.js."
+
+[[Projects]]
+Name = "inSets (insets-music.web.app)"
+Date = "april 2022"
+Repo = "github.com/axelarielsaravia/insets"
+Technology = """\
+JavaScript, CSS, HTML, Bash, Git, Web Audio API, Bun, Firebase, React"""
+About = """\
+A Music Composition App that mixes audio files at random, allowing \
+user control over effect parameters and generative probabilities."""
+
+
+[[Employment]]
+Role = "Ecommerce Administrator"
+Entity = "Roldanonline Supermarket"
+Location = "Colonia Caroya, Cordoba, Argentina"
+Started = "october 2023"
+Ended = "march 2024"
+Details = [
+  "Some Used tools as HTML, CSS, Wordpress and Google Sheets",
+  "Improve the UI",
+  "Managed product database in WordPress",
+  "Checking stocks and categories.",
+  "Updating images.",
+  "Creating quotes for customers.",
+  "Making price comparisons with other supermarkets.",
+  "Planning and implementing consistent practices."
+]
+
+[[Employment]]
+Role = "Front End Development"
+Entity = "Freelancer"
+Location = "Remote"
+Started = "december 2021"
+Ended = "abril 2022"
+Details = [
+  "The product, a landing page for an insurance producer (https://ag-seguros.web.app/).",
+  "Some Used tools as Bun, CSS, Firebase, Git, HTML, Javascript, and Webpack.",
+  "Communicated with the client.",
+  "Creating a design based on the client's preference.",
+  "Informing the client of changes.",
+  "Maintenance of the site."
+]
+
+[[Education]]
+Entity = "Full Stack open (fullstackopen.com/)"
+Date = "2022-2023"
+Certificate = "studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/719aef96eb4066cac05632f46e39709c"
+Repo = "github.com/axelarielsaravia/fullstackopen2022-exercises"
+
+[[Education]]
+Entity = "Freecodecamp"
+Date = "2022"
+  [[[Education.Courses]]]
+  Name = "Responsive Web Design"
+  Certificate = "freecodecamp.org/certification/axarisar/responsive-web-design"
+
+  [[[Education.Courses]]]
+  Name = "Javascript Algorithms and Data Structures"
+  Certificate = "freecodecamp.org/certification/axarisar/javascript-algorithms-and-data-structures"
+
+  [[[Education.Courses]]]
+  Name = "Back End Development and APIs"
+  Certificate = "freecodecamp.org/certification/axarisar/back-end-development-and-apis"
+
+  [[[Education.Courses]]]
+  Name = "Front End Development Libraries"
+  Certificate = "freecodecamp.org/certification/axarisar/front-end-development-libraries"
+
+[[Education]]
+Entity = "Polotic Misiones"
+Name = "Programación Web PHP"
+Date = "2021"
+
+[Books_and_Articles]
+Notes = """\
+These are some books and articles that I like. Please do not pay much \
+attention to this section; I don't care about the number of books or \
+articles I read. There are also many articles (and maybe some books) \
+not on this list because I either don't remember them or don't care \
+to include them."""
+
+[[Books]]
+Name = "The Little Book of Semaphores"
+Author = "Allen B. Downey"
+
+[[Books]]
+Name = "Algorithms and Data Structures"
+Author = "Niklaus Wirth"
+
+[[Books]]
+Name = "Beej’s Guide to Network Programming"
+Author = "Brian “Beej Jorgensen” Hall"
+
+[[Books]]
+Name = "Let's Go"
+Author = "Alex Edwards"
+
+[[Books]]
+Name = "Resilient web design"
+Author = "Jeremy Keith"
+Online = "resilientwebdesign.com"
+
+[[Books]]
+Name = "Think OS"
+Author = "Allen B. Downey"
+
+[[Books]]
+Name = "Tiny C Project"
+Author = "Dan Gookin"
+
+[[Books]]
+Name = "Modern C"
+Author = "Jens Gustedt"
+
+[[Books]]
+Name = "Algorithms"
+Author = "Jeff Erickson"
+
+[[Books]]
+Name = "Open Data Structures"
+Author = "Pat Morin"
+
+[[Books]]
+Name = "How JavaScript Works"
+Author = "Douglas Crockford"
+
+[[Books]]
+Name = "Cálculo de Programas"
+Author = "Javier Blanco, Silvina Smith, Damián Barsotti"
+
+[[Books]]
+Name = "Learn You a Haskell for Great Good!"
+Author = "Miran Lipovaca"
+
+[[Articles]]
+Name = "The Law of Leaky Abstractions"
+Author = "Joel Spolsky"
+Online = "joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/"
+
+[[Articles]]
+Name = "A Rant about Front-end Development"
+Author = "Frank M Taylor"
+Online = "blog.frankmtaylor.com/2024/06/20/a-rant-about-front-end-development/"
+
+[[Articles]]
+Name = "Memory Allocation Strategies"
+Author = "Ginger Bill"
+Online = "gingerbill.org/series/memory-allocation-strategies/"
+
+[[Articles]]
+Name = "Making the world’s fastest website, and other mistakes"
+Author = "Taylor Hunt"
+Online = "dev.to/tigt/making-the-worlds-fastest-website-and-other-mistakes-56na"
+
+[[Articles]]
+Name = "The Grug Brained Developer"
+Author = "I don't known"
+Online = "grugbrain.dev/"
+
+[[Articles]]
+Name = "I Want Simple, Not Just Easy"
+Author = "Loris Cro"
+Online = "kristoff.it/blog/simple-not-just-easy/"
+
+[[Articles]]
+Name = "Worse is Better"
+Author = "Richard P. Gabriel"
+Online = "dreamsongs.com/WorseIsBetter.html"
+
+[[Articles]]
+Name = "The Rise of Worse is Better"
+Author = "Richard P. Gabriel"
+Online = "dreamsongs.com/RiseOfWorseIsBetter.html"
+
+[[Articles]]
+Name = "Patterns for Reactivity with Modern Vanilla JavaScript"
+Author = "Marc Grabanski"
+Online = "frontendmasters.com/blog/vanilla-javascript-reactivity/"
+
+[[Articles]]
+Name = "Darts, Dice, and Coins: Sampling from a Discrete Distribution"
+Author = "Keith Schwarz"
+Online = "keithschwarz.com/darts-dice-coins/"
+
+[[Articles]]
+Name = "An axiomatic basis for computer programming"
+Author = "C. A. R. Hoare"
+
+[[Articles]]
+Name = "Notes on Programming in C"
+Author = "Rob Pike"
+
+[[Articles]]
+Name = "Fundamental Concepts in Programming Languages"
+Author = "Christopher Strachey"

@@ -1,0 +1,175 @@
+About = """\
+  Soy un desarrollador versátil, combinando mi pasión por el desarrollo web, \
+  la programación y la composición musical. Disfruto explorando nuevos \
+  lenguajes y técnicas de programación, esforzándome constantemente por \
+  aprender y leer sobre cosas nuevas. Soy responsable y dedicado a mis \
+  actividades, asegurándome de entregar trabajo de alta calidad. Además de \
+  mis actividades técnicas, me apasiona la composición musical y la música \
+  generativa. También disfruto mantenerme activo haciendo ejercicio y tengo \
+  una pasión por la cocina.
+"""
+
+Keywords = """\
+  Javascript, CSS, HTML, Bun, Nodejs, Linux, Go, React, C, Bash, Wordpress, \
+  Google Sheets, Web Development, Programming Languages, Programming Calculus, \
+  Audio Programming, Music Composition, Generative Music, Exercise, \
+  Interactive Applications, SPA, Generative Algorithms, Data Extraction, \
+  Browser Extensions, CLI Tools, Front End Development, UI Improvement, \
+  Ecommerce Management
+"""
+
+[[Projects]]
+Name = "JCC, Just Compile my C"
+Date = "junio 2024"
+Repo = "github.com/AxelArielSaravia/jcc"
+Technology = "C, Git"
+About = """\
+  Este es mi propio wrapper para compilar C con el compilarodr GCC. \
+  La idea es tener un conjunto de valores predeterminados (advertencias, \
+  seguridad y estándares) y un conjunto de comandos para simplificar \
+  las acciones. Se puede compilar en cualquier momento con diferentes \
+  valores predeterminados, haciéndolo flexible y fácil de adaptar a \
+  varios proyectos
+"""
+
+[[Projects]]
+Name = "Data quick cleaner (extensión de Chromium)"
+Date = "agosto 2024"
+Repo = "github.com/AxelArielSaravia/bookmarks quick-view"
+Technology = "HTML, CSS, Javascript, Git, Bash, Bun"
+About = "Una herramienta para eliminar datos de páginas o del navegador rápidamente"
+
+[[Projects]]
+Name = "ws (working session)"
+Date = "abril 2024"
+Repo = "github.com/AxelArielSaravia/ws"
+Technology = "Bash"
+About = """\
+  Administra directorios de trabajo y simplifica las 'sesiones tmux'. \
+  Siempre crea una sesión tmux con 2 ventanas, una para un editor de texto \
+  como neovim, y la otra para una terminal normal
+"""
+
+[[Projects]]
+Name = "superprod (desactualizado, puede estar obsoleto)"
+Date = "marzo 2024"
+Repo = "github.com/AxelArielSaravia/superprod"
+Technology = "Go"
+About = "Herramienta CLI para la extracción de datos web de supermercados argentinos"
+
+[[Projects]]
+Name = "Vanilla Movie (aas-vanilla-movie.vercel.app)"
+Date = "October 2023"
+Repo = "github.com/AxelArielSaravia/vanilla movie"
+Technology = "HTML, CSS, JavaScript, Bun, Git, Bash, Vercel"
+About = """\
+  Una página de películas, inspirado en Netflix. La idea era crear \
+  una SPA con JavaScript puro, con APIs que provienen de Vercel
+"""
+
+[[Projects]]
+Name = "Bookmarks quick view (extensión de Chromium)"
+Repo = "github.com/AxelArielSaravia/bookmarks quick-view"
+Date = "August 2023"
+Technology = "HTML, CSS, Javascript, Git, Bash, Bun"
+About = "Ver y gestionar los bookmarks (o favoritos) del navegador"
+
+[[Projects]]
+Name = "Pixel Scroll (extensión de Chromium)"
+Date = "August 2023"
+Repo = "github.com/AxelArielSaravia/pixel scroll"
+Technology = "HTML, CSS, Javascript, Git, Bash, Bun"
+About = "Scroll con distancias en píxeles"
+
+[[Projects]]
+Name = "History quick view (extensión de Chromium)"
+Date = "July 2023"
+Repo = "github.com/AxelArielSaravia/history quick-view"
+Technology = "HTML, CSS, Javascript, Git, Bash, Bun"
+About = "Ver y gestionar el historial de datos del navegador"
+
+[[Projects]]
+Name = "Vanilla Todo (aas-vanilla-todo.web.app)"
+Date = "July 2023"
+Repo = "github.com/AxelArielSaravia/vanilla todo"
+Technology = "HTML, CSS, Javascript, Git, Bun, Firebase"
+About = "Una aplicación de tareas construidas con JavaScript puro"
+
+[[Projects]]
+Name = "React Todo (aas-react-todo.web.app)"
+Date = "June 2023"
+Repo = "github.com/AxelArielSaravia/react todo"
+Technology = "HTML, CSS, Javascript, Git, Bun, React, Firebase"
+About = "Una aplicación de tareas construidas con React.js"
+
+[[Projects]]
+Name = "inSets (insets-music.web.app)"
+Date = "April 2022"
+Repo = "github.com/AxelArielSaravia/insets"
+Technology = """JavaScript, CSS, HTML, Bash, Git, \
+    Web Audio API, Bun, Firebase, React"""
+About = """\
+  Una aplicación de composición musical que mezcla archivos de audio al \
+  azar, permitiendo al usuario controlar los parámetros de efecto y las \
+  probabilidades generativas.
+"""
+
+[[Employment]]
+Role = "Administrador Ecommerce"
+Entity = "Supermercado Roldanonline"
+Location = "Colonia Caroya, Córdoba, Argentina"
+Started = "octubre 2023"
+Ended = "marzo 2024"
+Details = """\
+    Algunas herramientas HTML, CSS, Wordpress, and Google Sheets. \
+    Gestión de la base de datos de productos en WordPress. \
+    Verificar el stock y categorías. \
+    Mejora de la UI, y actualización de imágenes. \
+    Crear cotizaciones para clientes. \
+    Comparación de precios con otros supermercados. \
+    Planificación e implementación de prácticas consistentes.
+"""
+
+[[Employment]]
+Role = "Desarrollador Front End"
+Entity = "Freelancer"
+Location = "remoto"
+Started = "diciembre 2021"
+Ended = "abril 2022"
+Details = """\
+    Desarrollo de una página para un productora de seguros (demo ag-seguros.web.app). \
+    Algunas herramientas Bun, CSS, Firebase, Git, HTML, Javascript, and Webpack. \
+    Comunicación con el cliente. \
+    Creación de un diseño basado en la preferencia del cliente. \
+    Mantenimiento del sitio.
+"""
+
+[[Education]]
+Entity = "Full Stack open (fullstackopen.com/)"
+Date = "2022 2023"
+Certificate = "studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/719aef96eb4066cac05632f46e39709c"
+Repo = "github.com/AxelArielSaravia/fullstackopen2022 exercises"
+
+[[Education]]
+Entity = "Freecodecamp"
+Date = "2022"
+    [[[Eductaion.Courses]]]
+    Name = "Responsive Web Design"
+    Certificate = "freecodecamp.org/certification/axarisar/responsive web-design"
+
+    [[[Eductaion.Courses]]]
+    Name = "Javascript Algorithms and Data Structures"
+    Certificate = "freecodecamp.org/certification/axarisar/javascript algorithms-and-data-structures"
+
+    [[[Eductaion.Courses]]]
+    Name = "Back End Development and APIs"
+    Certificate = "freecodecamp.org/certification/axarisar/back end-development-and-apis"
+
+    [[[Eductaion.Courses]]]
+    Name = "Front End Development Libraries"
+    Certificate = "freecodecamp.org/certification/axarisar/front end-development-libraries"
+
+[[Education]]
+Entity = "Polotic Misiones"
+Name = "Programación Web PHP"
+Date = "2021"
