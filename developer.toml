@@ -18,6 +18,16 @@ Ecommerce Management"""
 Page = "https://axelarielsaravia.github.io/dev"
 
 [[Projects]]
+Name = "inSets new (insetsmusic.web.app)"
+Date = "april 2025"
+Repo = "github.com/axelarielsaravia/insets"
+Technology = """\
+JavaScript, CSS, HTML, Bash, Git, Web Audio API, Bun, Firebase, React"""
+About = """\
+A Music Composition App that mixes audio files at random, allowing \
+user control over effect parameters and generative probabilities."""
+
+[[Projects]]
 Name = "JCC, Just Compile my C"
 Date = "june 2024"
 Repo = "github.com/axelarielsaravia/jcc"
@@ -97,9 +107,9 @@ Technology = "HTML, CSS, Javascript, Git, Bun, React, Firebase"
 About = "A todo app build with React.js."
 
 [[Projects]]
-Name = "inSets (insets-music.web.app)"
+Name = "inSets legacy (insets-music.web.app)"
 Date = "april 2022"
-Repo = "github.com/axelarielsaravia/insets"
+Repo = "github.com/axelarielsaravia/insets-legacy"
 Technology = """\
 JavaScript, CSS, HTML, Bash, Git, Web Audio API, Bun, Firebase, React"""
 About = """\
